@@ -19,13 +19,7 @@ I created LazyPad to build a compact, personalized mechanical keypad that speeds
 
 ---
 
-## Bill of Materials (BOM)
-
-| Item No. | Quantity | Reference(s) | Part Name         | Description                        | Footprint / Library                             | Datasheet / Link                                                                                  |
-|----------|----------|--------------|-------------------|----------------------------------|-------------------------------------------------|------------------------------------------------------------------------------------------------|
-| 1        | 4        | —            | SK6812MINI        | RGB LED with integrated controller| LED_SMD:LED_SK6812MINI_PLCC4_3.5x3.5mm_P1.75mm | [Datasheet](https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf)         |
-| 2        | 4        | SW1–SW4      | Cherry MX Switch  | Push button switch, generic, 2-pin| Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB  | —                                                                                              |
-| 3        | 1        | U1           | Seeed XIAO RP2040 | RP2040 microcontroller module     | OPL:XIAO-RP2040-DIP / MODULE14P-XIAO-DIP-SMD   | [Product Page](https://wiki.seeedstudio.com/XIAO-RP2040/)                                      |
+# Moved BOM to BOM.csv
 
 ---
 
