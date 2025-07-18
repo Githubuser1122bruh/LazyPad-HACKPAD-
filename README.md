@@ -30,6 +30,10 @@ I created LazyPad to build a compact, personalized mechanical keypad that speeds
 ![Assembly Process](https://github.com/user-attachments/assets/fcb8847d-e03a-42eb-afd3-8ec0492d0dad)  
 ![Finished Product](https://github.com/user-attachments/assets/152ee721-99f1-4840-8f9b-1bf962af744e)
 
+### Built project
+<img width="1080" height="1440" alt="image" src="https://github.com/user-attachments/assets/9b8daac2-3c04-4a1d-bfe7-d365f3540d3f" />
+
+
 ---
 
 ## Challenges Faced
